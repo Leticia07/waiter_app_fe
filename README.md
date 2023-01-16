@@ -1,4 +1,4 @@
-# waiter_app
+# waiter_app_fe
 This project was developed during JStack week 2022.
 
 This app is supposed to be a dashboard where a kitchen from a dashboard can receive the new orders and then change this order status as they prepare and then inform that the order is done.
